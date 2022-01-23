@@ -12,7 +12,7 @@
   - []()
   - []()
   - []()
-  - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/ed7deb60b8df997cbfe2fad2e0587c3e50872fcd/store-sales.ipynb)
+  - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220122/store-sales.ipynb)
   - [최윤서](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220122/CYS_220122.ipynb)
 
   
