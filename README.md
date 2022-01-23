@@ -12,7 +12,9 @@
   - [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220122/train%20EDA.py)
   - []()
   - []()
-  - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220122/store-sales.ipynb)
+  - 김은호
+    - [프로그램 코드](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220122/store-sales.ipynb)
+    - [데이터 설명 파일](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220122/data.md)
   - [최윤서](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220122/CYS_220122.ipynb)
 
   
