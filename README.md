@@ -9,7 +9,7 @@
 
 
 ### 20220122
-  - []()
+  - [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220122/train%20EDA.py)
   - []()
   - []()
   - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220122/store-sales.ipynb)
