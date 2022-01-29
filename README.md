@@ -19,7 +19,7 @@
 
   
 ### 20220129
-  -
+  - [정소영] (https://github.com/soyoung0101/Project/blob/main/0129.ipynb)
   -
   -
   -
