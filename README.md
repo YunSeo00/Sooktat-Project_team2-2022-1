@@ -23,4 +23,4 @@
   - [최윤서](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220129/220129.ipynb)
   - [김윤진](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220129/yunjin)
   - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220129/store-sales.ipynb)
-  - [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220129/0129train%20EDA.py)
+  - [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220129/train%20EDA.ipynb)
