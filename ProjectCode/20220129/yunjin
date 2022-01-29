@@ -1,0 +1,37 @@
+https://www.kaggle.com/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide
+
+transactions 
+- 오른쪽 꼬리가 긴 형태 -> log 변환?
+- year, month에 일정한 패턴을 가짐, 조금 변화는 O
+- year 뒤로 갈 수록 약간 감소
+- 결측치? holiday?
+Oil Price
+- 유가가 모델의 분산에 영향
+- 결측치 linear interpolation 사용
+- sales와 약간 음의 상관관계
+- family에 따라 sales 감소량 차이
+Sales
+- store 20, 21, 22, 52 다름
+- store 오픈 다름 -> 해결 how
+- sales 항상 0인 품목
+- 계절성은 어떻게 반영?
+
+https://www.kaggle.com/howoojang/first-kaggle-notebook-following-ts-tutorial#Equador's-economy-is-dependent-on-the-crude-oil-price.-Let's-examine-first-the-relationship-between-crude-oil-and-grocery-sales-and-transactions.
+DeterministicProcess 
+plot_periodogram 
+OneHotEncoder : 범주형 변수의 이항변수화
+CalendarFourier
+.rolling : 이동평균 계산
+plot_pacf : Plot the partial autocorrelation function
+plot_lags(series, lags=1, suptitle=None)
+: Plot one or more lagged versions of a time series.
+.squeeze() : 차원이 1인 차원을 제거
+
+모델)
+- RNN/LSTM Network
+- BoostedHybrid 
+	- XGBRegressor
+	- ExtraTreesRegressor
+	- RandomForestRegressor
+	- KNeighborsRegressor
+	- MLPRegressor
