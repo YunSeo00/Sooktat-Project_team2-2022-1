@@ -25,5 +25,5 @@
   - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220129/store-sales.ipynb)
   - [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220129/train%20EDA.ipynb)
   - data
-    - [test_merge_data.npy](https://drive.google.com/file/d/178IRO8WQrru9jcKw_TBuEWCxxoIBtUD6/view?usp=sharing)
-    - [train_merge_data.npy](https://drive.google.com/file/d/1TKVBqq-LYZeygWFI4_2du2ZjQm1vI_6X/view?usp=sharing)
+    - [test_merge_data.pkl](https://drive.google.com/file/d/1VMTBM8obEG4wm8mkYNoUvnrgw6ADQGkz/view?usp=sharing)
+    - [train_merge_data.pkl](https://drive.google.com/file/d/1FJvZaxnZgvjrITSAj6Cj-dkKQJClO4OT/view?usp=sharing)
