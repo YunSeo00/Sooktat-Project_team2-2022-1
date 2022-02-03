@@ -4,7 +4,7 @@
 #### 다음 회의 날짜: 2022-02-06(일) 8시
 
 #### 해야할 일
-- 목표: 선형회귀모형, 랜덤포레스트회귀(randomforestregression)에서 돌아갈 수 있게, 'train_merge_data.npy', 'test_merge_data.npy' 전처리하기
+- 목표: 선형회귀모형, 랜덤포레스트회귀(randomforestregression)에서 돌아갈 수 있게, 'train_merge_data.pkl', 'test_merge_data.pkl' 전처리하기
 - 지금까지 다른 사람 발표, 참고한 notebook들에서 얻은 정보들을 바탕으로 새로운 변수를 추가해도 좋고(lag, 푸리에변환, holiday, school_day 등등), 변수추가 안해도 되니까 자기가 부담없이 재밌는 만큼만 해요!
 - transaction 예측이 이상할 수 있으니 믿지 마세요.
 - 각 데이터 전처리를 왜 그렇게 했는지 이유만 있으면 됩니다. 정답은 없으니 각자 생각대로 해요!
