@@ -13,3 +13,8 @@
     - 테스트데이터 성능 측정 시 모델 학습에 사용하는 데이터 : 전체 train_data (train_data + valid_data)
     - 훈련, 검증, 테스트 데이터 분리 기준은 기존과 동일
     - 테스트데이터 성능은 kaggle에 summit 하면 확인할 수 있음.
+
+- data split
+    - train data : (맨 처음) ~ 2016/7/31 (train_merge_data.npy)
+    - valid data : 2016/8/1 ~ 2017/8/15 (train_merge_data.npy)
+    - test data : 2017/8/16 ~ 2017/8/30 (test_merge_data.npy)
