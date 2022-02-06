@@ -32,6 +32,6 @@
 ### 20220206
   - [최윤서](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220206/220206.ipynb)
   - [정소영](https://github.com/soyoung0101/Project/blob/main/20220206_soyoung.ipynb)
-  - []()
+  - [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220206/0206NK.ipynb)
   - []()
   - []()
