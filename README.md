@@ -35,3 +35,11 @@
   - [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220206/0206NK.ipynb)
   - [김윤진](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220206/%EC%A0%84%EC%B2%98%EB%A6%AC-Copy1.ipynb)
   - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220206/3%EC%A3%BC%EC%B0%A8.ipynb)
+
+
+### 20220212
+  -[]()
+  -[]()
+  -[]()
+  -[]()
+  -[]()
