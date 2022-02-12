@@ -40,6 +40,6 @@
 ### 20220212  [바로가기](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/tree/main/ProjectCode/20220212)
   - [정소영](https://github.com/soyoung0101/Project/blob/main/20220212.ipynb)
   -[]()
-  -[김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/fae9a44b578abaea61a0ea11e9c0b67aa0af7f86/ProjectCode/20220212/4%EC%A3%BC%EC%B0%A8.ipynb)
+  - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/fae9a44b578abaea61a0ea11e9c0b67aa0af7f86/ProjectCode/20220212/4%EC%A3%BC%EC%B0%A8.ipynb)
   -[]()
   -[]()
