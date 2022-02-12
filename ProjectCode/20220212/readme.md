@@ -18,7 +18,7 @@
     - SVM(support vector machine) - 김은호
     - (Bagging) : RandomForest, (ExtraTree) - 전소연
     - (Adaboost), XGBoost(Extreme Gradient Boosting) - 김윤진
-    - lightGBM - 윤서
+    - lightGBM - 최윤서
 
 3. data split (기존과 동일)
     - train data : (맨 처음) ~ 2016/7/31 (train_merge_data.npy)
