@@ -4,7 +4,7 @@
 ## Kaggle Project
 
 - Competitions: [Store Sales - Time Series Forecasting](https://www.kaggle.com/c/store-sales-time-series-forecasting)
-- Member : 고나경, 김윤진, 김은호, 정소영, 최윤서
+- Member : 고나경, 김윤진, 김은호, 정소영, 최윤서, 전소연
 
 
 
