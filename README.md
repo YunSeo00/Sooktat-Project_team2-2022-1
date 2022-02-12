@@ -39,7 +39,9 @@
 
 ### 20220212  [바로가기](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/tree/main/ProjectCode/20220212)
   - [정소영](https://github.com/soyoung0101/Project/blob/main/20220212.ipynb)
-  -[]()
+  - [최윤서](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220212/220212_YS.ipynb)
   - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/fae9a44b578abaea61a0ea11e9c0b67aa0af7f86/ProjectCode/20220212/4%EC%A3%BC%EC%B0%A8.ipynb)
-  -[]()
-  -[]()
+  - [김윤진](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220212/0212YJ.ipynb)
+  - 고나경
+    - [전처리코드](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220212/0212nk.ipynb) 
+    - [분산분석](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220212/0212%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D.ipynb)
