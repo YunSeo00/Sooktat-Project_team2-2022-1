@@ -38,7 +38,8 @@
 
 
 ### 20220212  [바로가기](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/tree/main/ProjectCode/20220212)
-  -[정소영](https://github.com/soyoung0101/Project/blob/main/20220212.ipynb)
+  - [정소영](https://github.com/soyoung0101/Project/blob/main/20220212.ipynb)
+  -[]()
   -[]()
   -[]()
   -[]()
