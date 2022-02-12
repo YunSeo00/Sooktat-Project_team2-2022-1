@@ -21,10 +21,10 @@
     - lightGBM - 윤서
 
 3. data split (기존과 동일)
-  - train data : (맨 처음) ~ 2016/7/31 (train_merge_data.npy)
-  - valid data : 2016/8/1 ~ 2017/8/15 (train_merge_data.npy)
-  - test data : 2017/8/16 ~ 2017/8/30 (test_merge_data.npy)
+    - train data : (맨 처음) ~ 2016/7/31 (train_merge_data.npy)
+    - valid data : 2016/8/1 ~ 2017/8/15 (train_merge_data.npy)
+    - test data : 2017/8/16 ~ 2017/8/30 (test_merge_data.npy)
 
 4. final_data_set_download
-  - [final_train_data](https://drive.google.com/file/d/1u3xxnkpHDMU7OFqxbWpUufjWOXLDHrla/view?usp=sharing)
-  - [final_test_data](https://drive.google.com/file/d/1aZpGLwqALWpQhngJxc9GmYkaGFELDFeT/view?usp=sharing)
+    - [final_train_data](https://drive.google.com/file/d/1u3xxnkpHDMU7OFqxbWpUufjWOXLDHrla/view?usp=sharing)
+    - [final_test_data](https://drive.google.com/file/d/1aZpGLwqALWpQhngJxc9GmYkaGFELDFeT/view?usp=sharing)
