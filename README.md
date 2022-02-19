@@ -52,9 +52,9 @@
    - [내용 정리](https://aeolian-fifth-c40.notion.site/SVM-Support-Vector-Machine-a82f118043434a998444fcc72ef3602d)
 - [전소연](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/0219%20%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8.ipynb) - Random Forest
 - [김윤진](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/a6ab14b0b252e65660a63e92ba4082b867e1dea8/ProjectCode/220219/XGBoost.ipynb) - XGBoost
-- 정소영
+  - 정소영
     - [전처리1](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/20220219-%EB%A6%BF%EC%A7%80%26%EB%9D%BC%EC%8F%98(%EA%B0%81%EA%B0%81%20%EC%A0%84%EC%B2%98%EB%A6%AC).ipynb)
     - [전처리2](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/20220219_%EB%A6%BF%EC%A7%80%26%EB%9D%BC%EC%8F%98(ColumnTransformer%20%EC%A0%84%EC%B2%98%EB%A6%AC).ipynb)
     - [전처리3](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/20220219_%EB%A6%BF%EC%A7%80%26%EB%9D%BC%EC%8F%98(%EC%98%A4%EB%8A%98%EB%8B%A4%EC%8B%9C%EC%8B%9C%EB%8F%84).ipynb) 
    - Lasso Ridge
-- []()
+- [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/0219nk.ipynb) - lidge,lasso (상호작용ㅇ)
