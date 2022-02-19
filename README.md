@@ -46,8 +46,8 @@
     - [전처리코드](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220212/0212nk.ipynb) 
     - [분산분석](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/20220212/0212%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D.ipynb)
 
-### 20220219
-- lightGBM [최윤서](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/220219.ipynb)
+### 20220219 [바로가기](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/tree/main/ProjectCode/220219)
+- [최윤서](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/220219.ipynb) - lightGBM 
 - []()
 - []()
 - []()
