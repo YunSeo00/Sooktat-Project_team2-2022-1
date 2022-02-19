@@ -49,7 +49,7 @@
 ### 20220219 [바로가기](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/tree/main/ProjectCode/220219)
 - [최윤서](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/220219.ipynb) - lightGBM 
 - [김은호](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/a6ab14b0b252e65660a63e92ba4082b867e1dea8/ProjectCode/220219/SVM.ipynb) -SVM
-          [](https://aeolian-fifth-c40.notion.site/SVM-Support-Vector-Machine-a82f118043434a998444fcc72ef3602d)
+          [개념 ](https://aeolian-fifth-c40.notion.site/SVM-Support-Vector-Machine-a82f118043434a998444fcc72ef3602d)
 - []()
 - []()
 - []()
