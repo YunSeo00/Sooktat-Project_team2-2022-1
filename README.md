@@ -59,4 +59,4 @@
 - [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/0219nk.ipynb) - lidge,lasso (상호작용ㅇ)
 
 ### 20220228
-- [최종발표ppt]()
+- [최종발표ppt](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ppt/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
