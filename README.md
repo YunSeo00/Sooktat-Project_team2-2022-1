@@ -57,3 +57,6 @@
   - [전처리2](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/20220219_%EB%A6%BF%EC%A7%80%26%EB%9D%BC%EC%8F%98(ColumnTransformer%20%EC%A0%84%EC%B2%98%EB%A6%AC).ipynb)
   - [전처리3](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/20220219_%EB%A6%BF%EC%A7%80%26%EB%9D%BC%EC%8F%98(%EC%98%A4%EB%8A%98%EB%8B%A4%EC%8B%9C%EC%8B%9C%EB%8F%84).ipynb) 
 - [고나경](https://github.com/YunSeo00/Sooktat-Project_team2-2022-1/blob/main/ProjectCode/220219/0219nk.ipynb) - lidge,lasso (상호작용ㅇ)
+
+### 20220228
+- [최종발표ppt]()
